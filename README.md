@@ -9,8 +9,8 @@ Reach us on info@africa1.me | +254 207 866 588 | [africa1.me/corporate](https://
 
 # Projects
 ## Sphere Composable ERP
-Sphere ERP is a composable Enterprise Resource Planning Software platform for businesses to quickly build and deploy data driven applications.
+Sphere ERP is a composable Enterprise Resource Planning Software platform to quickly build and deploy data driven applications.
 
-It leverages the versatility of JSON to enable users to quickly configure entire data driven software applications from basic data collection and analysis tools to fully integrated software including human resource management and payroll, client relationship management, manufacturing, e-commerce, blogs and publishing, accounting, sales and marketing as well as complete business management suites.
+It leverages the versatility of JSON to enable developers to quickly configure entire data driven software applications from basic data collection and analysis tools to fully integrated software including human resource management and payroll, client relationship management, manufacturing, e-commerce, blogs and publishing, accounting, sales and marketing as well as complete business management suites and backend APIs
 
 Website: https://www.sphereerp.com/
